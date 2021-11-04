@@ -3464,9 +3464,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Ghost Scared :
-
-    00:00:00'
+  m_Text: 'Ghost Scared Timer:'
 --- !u!222 &698097751
 CanvasRenderer:
   m_ObjectHideFlags: 0
